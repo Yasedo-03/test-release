@@ -15,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "release": "release-please release-pr",
+    "release-config": "release-please bootstrap --repo-url=Yasedo-03/test-release --release-type=node"
   },
   "eslintConfig": {
     "extends": [
