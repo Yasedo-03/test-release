@@ -1,6 +1,6 @@
 {
   "name": "test-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -16,8 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "release": "release-please release-pr",
-    "release-config": "release-please bootstrap --repo-url=Yasedo-03/test-release --release-type=node"
+    "release": "standard-version"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    "release-please": "^15.1.1"
+    "standard-version": "^9.5.0"
   }
 }
