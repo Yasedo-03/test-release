@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/Yasedo-03/test-release/compare/v0.1.3...v0.1.4) (2023-01-13)
+
+
+### Features
+
+* **.husky:** ad dhusky and try hook ([5749e69](https://github.com/Yasedo-03/test-release/commit/5749e6981267c9bb4e657bfaacdda81c19c79477))
+
 ### [0.1.3](https://github.com/Yasedo-03/test-release/compare/v0.1.2...v0.1.3) (2023-01-13)
 
 ### [0.1.2](https://github.com/Yasedo-03/test-release/compare/v0.1.1...v0.1.2) (2023-01-13)
