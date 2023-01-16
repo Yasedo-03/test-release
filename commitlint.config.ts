@@ -110,7 +110,7 @@ const Configuration: UserConfig = {
       },
       issuesBody: {
         description:
-          'Vous devez ajouter un corps au message si ce commit ferme des tickets. Essayez de renseigner une description plus longue et détaillée que la première ligne du commit.',
+          'Vous devez ajouter un corps au message si ce commit ferme des tickets. Veuillez renseigner le lien du ticket ici.',
       },
       issues: {
         description: 'Ajoutez une référence de ticket ("fix #123", "ref #123")',
