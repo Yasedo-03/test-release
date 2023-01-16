@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/Yasedo-03/test-release/compare/v0.1.6...v0.2.0) (2023-01-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* **commitlint.config:** configuration
+
+### Features
+
+* **:skip:** :skip ([9beaf2b](https://github.com/Yasedo-03/test-release/commit/9beaf2b97ee0acaa1311ddcf9478682da30dc203))
+
+
+* **commitlint.config:** changment de la config ([92fbb53](https://github.com/Yasedo-03/test-release/commit/92fbb53f0cc6b5605d3a121e7e250a313a57e44a))
+
 ### [0.1.6](https://github.com/Yasedo-03/test-release/compare/v0.1.5...v0.1.6) (2023-01-13)
 
 ### [0.1.5](https://github.com/Yasedo-03/test-release/compare/v0.1.4...v0.1.5) (2023-01-13)
